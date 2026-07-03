@@ -1,6 +1,4 @@
-# Wine_Quality_Prediction_ML_Models
-
-🍷 Wine Quality Prediction using Machine Learning
+# 🍷 Wine Quality Prediction using Machine Learning
 
 This project predicts the quality of wine based on its physicochemical properties using supervised machine learning algorithms. It includes data preprocessing, exploratory data analysis (EDA), feature scaling, model training, and performance evaluation to compare multiple classification models.
 
